@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to train on **game development**
+- 👯 I’m looking to train on **Game Development**
 
 - 🤝 I’m looking for help with **finding work**
 
@@ -16,8 +16,6 @@
 - 📫 How to reach me **christian.gealone1@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13B6P5_bdKXxBND7r3dWvuFCquDgxBR4P/view?usp=sharing](https://drive.google.com/file/d/13B6P5_bdKXxBND7r3dWvuFCquDgxBR4P/view?usp=sharing)
-
-- ⚡ Fun fact **Let's talk.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
